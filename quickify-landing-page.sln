@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quickify-landing-page", "quickify-landing-page\quickify-landing-page.csproj", "{383F3E38-BAD1-4621-A38E-1686D5D5FDCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{383F3E38-BAD1-4621-A38E-1686D5D5FDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383F3E38-BAD1-4621-A38E-1686D5D5FDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383F3E38-BAD1-4621-A38E-1686D5D5FDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383F3E38-BAD1-4621-A38E-1686D5D5FDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC0A6E0-FD0A-4CD6-B146-641E19150492}
+	EndGlobalSection
+EndGlobal
